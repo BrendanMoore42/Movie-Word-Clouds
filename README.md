@@ -8,7 +8,7 @@ Creates a Word Cloud from a Subtitle .srt file.
 * Familiarty with Photoshop/Gimp a strong 
 
 ### Scope
-Text to Cloud converts a subtitle movie file to a word cloud. Subtitles are stored in .srt format, and contain a good approximation of the movie's script. Images must be in jpeg format, preferably black and white. Srt's can be acquired by searching https://www.yifysubtitles.com. The script will additionally output a cleaned .txt file of dialog without .srt timestamps into the same directory.
+Subtitle Cloud creates an image based off of word frequencies in the script. Subtitles are stored in .srt format, and contain a good approximation of overall dialogue. Srt files can be acquired from www.yifysubtitles.com/movie/. The script will output a .png of the word cloud based off of the jpg used and a cleaned .txt file of the dialogue without timestamps. 
 
 ### Showcase #1: The Dark Knight, 2008
 ![batman](https://i.imgur.com/z0hsXTa.jpg)
@@ -18,7 +18,8 @@ Clouds can be customized to add stopwords, change colors, apply contours, alter 
 
 ### Example: James Bond - Goldfinger, 1964
 #### Set-up
-(Optional) Create virtual environment and install dependencies using pip. Recommended. 
+(Optional) Create virtual environment and install dependencies using pip.
+
 * Create or find black and white image to use as mask:
 ![bondmask](https://i.imgur.com/QmfXrCk.jpg =250x250)
 * Download subtitles: www.yifysubtitles.com/movie/james-bond-goldfinger-1964
