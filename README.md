@@ -24,10 +24,10 @@ Clouds can be customized to add stopwords, change colors, apply contours, alter 
 <img src="https://i.imgur.com/QmfXrCk.png" alt="Bond_pre" width="250">
 
 * Download subtitles: www.yifysubtitles.com/movie/james-bond-goldfinger-1964
-* Put both srt and jpg in same folder
+* Put both srt and jpg in same folder as txt_to_cloud.py.
 
 #### Running the script
-Run from command line, example: James Bond - Goldfinger
+In terminal, go to target directory, activate VM or simply run:
 
     $ python txt_to_cloud.py goldfinger.srt jamesbond.jpg
     
