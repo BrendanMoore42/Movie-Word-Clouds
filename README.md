@@ -5,7 +5,7 @@ Creates a Word Cloud from a Subtitle .srt file.
 * Works in both OSX and Windows
 * Python 3.6+
 * Pandas, Numpy, WordCloud, Matplotlib
-* Familiarty with Photoshop/Gimp a strong 
+* Photoshop/Gimp/Design skills
 
 ### Scope
 Subtitle Cloud creates an image based off of word frequencies in the script. Subtitles are stored in .srt format, and contain a good approximation of overall dialogue. Srt files can be acquired from www.yifysubtitles.com/movie/. The script will output a .png of the word cloud based off of the jpg used and a cleaned .txt file of the dialogue without timestamps. 
