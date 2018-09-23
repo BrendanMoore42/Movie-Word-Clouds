@@ -51,3 +51,5 @@ Try playing around with settings to find the best fit for your image/script. Use
 
 ### Beauty and the Beast, 2017
 <img src="https://i.imgur.com/Dq5Cisa.jpg" alt="Beauty_and_beast" width="500">
+
+Help and additional credit - @Nadimyounes & @ndunn219
