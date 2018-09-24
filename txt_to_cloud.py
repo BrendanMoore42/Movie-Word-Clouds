@@ -1,7 +1,7 @@
 #!/usr/bin/env
 """
 Requires: 3.6+
-Created: 11/02/2018
+Created: 09/09/2018
 Author: @BrendanMoore42
 
 Text to Cloud converts a subtitle movie file to a word cloud.
